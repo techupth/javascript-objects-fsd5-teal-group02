@@ -29,3 +29,5 @@ console.log(typeof product.socialMediaShare);
 product.socialMediaShare = 45.5;
 
 console.log(typeof product.socialMediaShare);
+
+console.log(product);
